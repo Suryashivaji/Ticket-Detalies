@@ -1,0 +1,14 @@
+.container{
+  border: 5px solid black;
+  max-width: 500px;
+  margin-top: 50px;
+  align-items: center;
+  justify-content: center;
+}
+.header{
+  margin:50px 400px;
+
+}
+.card{
+  border: 3px solid black;
+}
